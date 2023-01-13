@@ -6,6 +6,8 @@ This paper proposes a decentralized control strategy to reach segregation in het
 
 ## Robotarium code
 
+https://www.robotarium.gatech.edu/
 
-More information:
+
+Video of the experiments and more information:
 https://edsonbffilho.weebly.com/academic/icra-2020
